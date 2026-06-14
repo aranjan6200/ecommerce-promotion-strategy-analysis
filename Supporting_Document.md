@@ -1,4 +1,4 @@
-# CommerceIQ E-commerce Price Elasticity Analysis
+# E-commerce Price Elasticity Analysis
 ## Supporting Document - Executive Summary & Findings
 
 Client: Conglomerate Inc  
