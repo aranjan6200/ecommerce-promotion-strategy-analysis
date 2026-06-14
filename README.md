@@ -226,9 +226,6 @@ For questions or issues:
 2. Review the Supporting Document for methodology
 3. Examine the output CSV files for detailed results
 
-## License
-
-This analysis is prepared for CommerceIQ case study submission.
 
 ---
 
