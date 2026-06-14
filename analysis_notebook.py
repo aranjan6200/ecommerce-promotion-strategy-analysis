@@ -1,5 +1,5 @@
 """
-CommerceIQ E-commerce Price Elasticity Analysis
+E-commerce Price Elasticity Analysis
 Case Study: Conglomerate Inc - Promotional Strategy Analysis
 
 This notebook analyzes price elasticity and promotional effectiveness across
