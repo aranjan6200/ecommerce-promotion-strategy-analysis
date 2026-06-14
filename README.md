@@ -1,4 +1,4 @@
-# CommerceIQ E-commerce Price Elasticity Analysis
+# E-commerce Price Elasticity Analysis
 
 ## Case Study: Conglomerate Inc - Promotional Strategy Analysis
 
@@ -11,10 +11,10 @@ This project analyzes price elasticity and promotional effectiveness for Conglom
 ## Project Structure
 
 ```
-commerceIQ/
+Ecommerce/
 ├── ecom-elasticity-data1.tsv          # Input data file
 ├── analysis_notebook.py                # Python script version
-├── CommerceIQ_Analysis.ipynb          # Jupyter notebook version
+├── Analysis.ipynb                     # Jupyter notebook version
 ├── Supporting_Document.md             # Executive summary and findings
 ├── requirements.txt                   # Python dependencies
 └── README.md                          # This file
